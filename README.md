@@ -1,4 +1,4 @@
-# Fuzzy-Logic Marine Weather Risk Advisory System
+# Fuzzy-Logic Early Warning System for Small-Scale Fisheries Using BMKG Marine Weather Forecasts
 
 A web-based Decision Support System (DSS) that integrates **BMKG marine weather forecasts** with **rule-based** and **fuzzy-logic** risk assessments to provide clear, actionable safety advisories for **small-scale fisheries** in Indonesia.
 
