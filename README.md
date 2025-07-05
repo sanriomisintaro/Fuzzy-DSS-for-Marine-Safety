@@ -40,7 +40,7 @@ The system automatically **fetches BMKG forecast data** (including wind speeds, 
 
 This system uses public forecast data from the **BMKG Indonesia** Maritime Weather API:
 
-- Official website: [https://maritim.bmkg.go.id/](https://maritim.bmkg.go.id/)
+- Official website: [https://peta-maritim.bmkg.go.id/public_api/perairan](https://peta-maritim.bmkg.go.id/public_api/perairan)
 
 ---
 
@@ -69,10 +69,6 @@ This system uses public forecast data from the **BMKG Indonesia** Maritime Weath
 5. **User Interface**  
    - Interactive selection of Indonesian maritime areas
    - Displays BMKG warnings, risk assessment results, and detail toggles
-
----
-
-
 
 ---
 
